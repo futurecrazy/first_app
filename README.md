@@ -35,7 +35,11 @@ link:files/vendor/rails/actionpack/README.html.
        <tt>cd myapp; rails server</tt> (run with --help for options)
 
 3. Go to http://localhost:3000/ and you'll see:
-       "Welcome aboard: You're riding Ruby on Rails!"
+       "Wuby on Rails Tutorial: first application
+
+This is the first application for
+[*Ruby on Rails Tutorial: Learn Rails by Example*](http://railstutorial.org/)
+by [Michael Hartl](http://michaelhartl.com/).
 
 4. Follow the guidelines to start developing your application. You can find
 the following resources handy:
